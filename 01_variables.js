@@ -4,7 +4,6 @@ var accountPassword = '123456'
 accountCity = 'Sangrur'
 let accountState 
 // accountID = 45454 // not allowed 
-
 accountEmail = 'subhagya18718@gmail.com'
 accountPassword = '41414141'
 accountCity = 'Noida'
