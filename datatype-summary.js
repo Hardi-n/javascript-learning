@@ -33,3 +33,23 @@ const myFunction = function(){
 }
 
 console.log(typeof bignumber)
+
+
+
+// ++++++++++++++++++++++++++++++++++++++++memory management++++++++++++++++++++++++++++++++++++++++++++++++++
+
+let mywebsiteurl = 'https://subhagya.com'
+let anotherurl = mywebsiteurl
+anotherurl ='https://subhagyachhabra.com'
+console.log(mywebsiteurl)
+console.log(anotherurl)
+
+
+let userOne = {
+    email:'abc@gmail.com',
+    upi:'asdbjbj@sbi'
+}
+let userTwo = userOne
+userTwo.email='subhagya.chhabra@gmail.com'
+console.log(userOne.email)
+console.log(userTwo.email)
