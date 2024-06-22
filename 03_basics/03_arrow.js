@@ -47,3 +47,4 @@ console.log(addtwo(5,2))
 
 const myArray = [2,5,4,8,6,7]
 // myArray.forEach()
+const abc = [345666,899];
